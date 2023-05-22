@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//aCodeReader.github.io/partyPlannerNearMe/static/css/main.34103345.css",
+    "main.js": "/http//aCodeReader.github.io/partyPlannerNearMe/static/js/main.9938652e.js",
+    "static/js/787.7df4a02a.chunk.js": "/http//aCodeReader.github.io/partyPlannerNearMe/static/js/787.7df4a02a.chunk.js",
+    "index.html": "/http//aCodeReader.github.io/partyPlannerNearMe/index.html",
+    "main.34103345.css.map": "/http//aCodeReader.github.io/partyPlannerNearMe/static/css/main.34103345.css.map",
+    "main.9938652e.js.map": "/http//aCodeReader.github.io/partyPlannerNearMe/static/js/main.9938652e.js.map",
+    "787.7df4a02a.chunk.js.map": "/http//aCodeReader.github.io/partyPlannerNearMe/static/js/787.7df4a02a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34103345.css",
+    "static/js/main.9938652e.js"
+  ]
+}
